@@ -1,4 +1,4 @@
-# shop
+# vue3-admin
 
 ## Project setup
 ```
